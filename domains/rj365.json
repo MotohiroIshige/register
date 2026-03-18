@@ -1,14 +1,17 @@
 {
   "owner": {
-    "username": "motohiroishige",
+    "username": "MotohiroIshige",
     "email": "motohiro_ishige@jp.ricoh.com"
   },
   "record": {
-    "MX": [
-      "0 your-custom.mail.protection.outlook.com"
-    ],
     "TXT": [
-      "MS=msXXXXXXXX"
-    ]
+      "MS=ms42827177",
+      "v=spf1 include:spf.protection.outlook.com -all"
+    ],
+    "CNAME": {
+      "autodiscover": "autodiscover.outlook.com",
+      "selector1._domainkey": "selector1-sf8jc._domainkey.sf8jc.onmicrosoft.com",
+      "selector2._domainkey": "selector2-sf8jc._domainkey.sf8jc.onmicrosoft.com"
+    }
   }
 }
