@@ -3,7 +3,7 @@
     "username": "MotohiroIshige",
     "email": "motohiro_ishige@jp.ricoh.com"
   },
-  "record": {
+  "records": {
     "TXT": [
       "MS=ms42827177",
       "v=spf1 include:spf.protection.outlook.com -all"
