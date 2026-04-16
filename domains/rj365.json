@@ -4,6 +4,7 @@
     "email": "motohiro_ishige@jp.ricoh.com"
   },
   "records": {
+    "A": ["127.0.0.1"],
     "TXT": [
       "MS=ms42827177",
       "v=spf1 include:spf.protection.outlook.com -all"
