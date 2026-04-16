@@ -4,7 +4,6 @@
     "email": "motohiro_ishige@jp.ricoh.com"
   },
   "records": {
-    "URL": "https://motohiroishige.github.io/rj365-site/",
     "TXT": [
       "MS=ms42827177",
       "v=spf1 include:spf.protection.outlook.com -all"
