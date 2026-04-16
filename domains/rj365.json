@@ -7,11 +7,6 @@
     "TXT": [
       "MS=ms42827177",
       "v=spf1 include:spf.protection.outlook.com -all"
-    ],
-    "CNAME": {
-      "autodiscover": "autodiscover.outlook.com",
-      "selector1._domainkey": "selector1-sf8jc._domainkey.sf8jc.onmicrosoft.com",
-      "selector2._domainkey": "selector2-sf8jc._domainkey.sf8jc.onmicrosoft.com"
-    }
+    ]
   }
 }
